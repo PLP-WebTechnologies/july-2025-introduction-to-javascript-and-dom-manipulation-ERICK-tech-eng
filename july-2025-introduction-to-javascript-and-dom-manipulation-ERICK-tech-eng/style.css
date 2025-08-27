@@ -1,0 +1,16 @@
+body {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+  }
+  
+  h1 {
+    color: darkblue;
+  }
+  
+  button {
+    margin: 5px;
+    padding: 10px;
+    border-radius: 8px;
+    cursor: pointer;
+  }
+  
